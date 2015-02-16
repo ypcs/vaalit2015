@@ -437,7 +437,7 @@
             <para PARENT="Iso teksti (teemat)"/>
             <ITEXT CH="Siirrytään"/>
             <para PARENT="Teemaotsikot"/>
-            <ITEXT CH="perustuloon (kts. www.vihreat.fi/perustulo)"/>
+            <ITEXT CH="perustuloon"/>
             <para PARENT="Leipäteksti"/>
             <ITEXT CH="Lisätään"/>
             <para PARENT="Teemaotsikot"/>
