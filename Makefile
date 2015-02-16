@@ -2,7 +2,7 @@
 
 VAALIESITE_DIR ?= vaaliesite
 VAALIESITE_PDF ?= $(VAALIESITE_DIR)/vaaliesite.pdf
-VAALIESITE_NEXT ?= $(VAALIESITE_DIR)/vaaliesite_$(shell git tag)_$(shell date +%Y%m%d%H%M%S).pdf
+VAALIESITE_NEXT ?= $(VAALIESITE_DIR)/vaaliesite_$(shell git describe)_$(shell date +%Y%m%d%H%M%S).pdf
 
 # ls vaaliesite*.pdf |head -n1 
 
