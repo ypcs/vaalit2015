@@ -30,7 +30,7 @@
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="Default Character Style"/>
         <STYLE NAME="Perusteksti" PARENT="Default Paragraph Style" ALIGN="1" KERN="1"/>
         <STYLE NAME="Iso teksti" PARENT="Perusteksti" LINESP="33" CPARENT="Default Character Style" FONTSIZE="33" KERN="2"/>
-        <STYLE NAME="Teemaotsikot" PARENT="Perusteksti" LINESP="22" VOR="2" FONTSIZE="20" FCOLOR="VihreätVihreä"/>
+        <STYLE NAME="Teemaotsikot" PARENT="Perusteksti" LINESP="22" VOR="6" NACH="4" FONTSIZE="20" FCOLOR="VihreätVihreä"/>
         <STYLE NAME="Leipäteksti" PARENT="Perusteksti" ALIGN="1" CPARENT="Default Character Style" FONTSIZE="13"/>
         <STYLE NAME="Iso teksti (teemat)" PARENT="Perusteksti" FONTSIZE="27"/>
         <STYLE NAME="Ehdokkaan nimi" PARENT="Perusteksti" ALIGN="2" LINESP="18" NACH="0" CPARENT="Default Character Style" FONTSIZE="18" FCOLOR="VihreätVihreä"/>
@@ -417,7 +417,6 @@
             <para PARENT="Teemaotsikot"/>
             <ITEXT CH="lajien monimuotoisuus ja luonnon puhtaana pysyminen"/>
             <para PARENT="Leipäteksti"/>
-            <para PARENT="Leipäteksti"/>
             <ITEXT CH="Helpotetaan"/>
             <para PARENT="Teemaotsikot"/>
             <ITEXT CH="PK-yrityksien  toimintaa sekä kykyä työllistää"/>
@@ -446,7 +445,6 @@
             <ITEXT CH="Siirretään"/>
             <para PARENT="Teemaotsikot"/>
             <ITEXT CH="terveydenhuollon ja vanhustenhoidon painopistettä kohti ennaltaehkäisyä"/>
-            <para PARENT="Leipäteksti"/>
             <para PARENT="Leipäteksti"/>
             <ITEXT CH="Turvataan"/>
             <para PARENT="Teemaotsikot"/>
