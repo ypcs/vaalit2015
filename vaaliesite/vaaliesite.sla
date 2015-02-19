@@ -27,7 +27,7 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="Default Character Style"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="Default Character Style"/>
         <STYLE NAME="Perusteksti" PARENT="Default Paragraph Style" ALIGN="1" KERN="1"/>
         <STYLE NAME="Iso teksti" PARENT="Perusteksti" LINESP="33" CPARENT="Default Character Style" FONTSIZE="33" KERN="2"/>
         <STYLE NAME="Teemaotsikot" PARENT="Perusteksti" LINESP="22" VOR="6" NACH="4" FONTSIZE="20" FCOLOR="VihreätVihreä"/>
@@ -49,7 +49,7 @@
         <STYLE NAME="Ehdokastiedot (somelinkit)" PARENT="Ehdokastiedot" FONTSIZE="9"/>
         <STYLE NAME="EhdokastiedotTyhjäriviSome" PARENT="EhdokastiedotTyhjärivi" LINESP="2"/>
         <STYLE NAME="Teemaotsikot (ehdokassivu)" PARENT="Teemaotsikot" LINESP="16" VOR="2" NACH="2" CPARENT="Default Character Style" FONTSIZE="18" FCOLOR="VihreätVihreä"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="Bebas Neue Bold" FONTSIZE="11" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Bebas Neue Bold" FONTSIZE="11" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Vihreät" FONT="Section Black Black" LANGUAGE="English (USA)"/>
         <CHARSTYLE CNAME="De Gröna" CPARENT="Vihreät" FONT="Section Light Light"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
@@ -672,6 +672,18 @@
             <ITEXT CH="- logojen tarkat sijainnit kuntoon"/>
             <para PARENT="Ehdokastiedot"/>
             <ITEXT CH="- siirretään ehdokasnumerot omalle layerille"/>
+            <para PARENT="Ehdokastiedot"/>
+            <para PARENT="Ehdokastiedot"/>
+            <ITEXT CH="- tarkista jokaisen ehdokkaan tiedot: ikä vaalipäivänä, yhteystiedot, tittelit"/>
+            <para PARENT="Ehdokastiedot"/>
+            <para PARENT="Ehdokastiedot"/>
+            <ITEXT CH="&quot;Köyhyyttä ehkäisevään perustuloon&quot;"/>
+            <para PARENT="Ehdokastiedot"/>
+            <ITEXT CH="&quot;Kaikille maksettavaan perustuloon&quot;"/>
+            <para PARENT="Ehdokastiedot"/>
+            <ITEXT CH="&quot;Sosiaaliturvaa uudistavaan perustuloon&quot;"/>
+            <para PARENT="Ehdokastiedot"/>
+            <ITEXT CH="&quot;Kannustinloukkuja poistavaan&quot;"/>
             <para PARENT="Ehdokastiedot"/>
             <para PARENT="Ehdokastiedot"/>
             <para PARENT="Ehdokastiedot"/>
