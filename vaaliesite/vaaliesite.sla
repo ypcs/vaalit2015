@@ -36,6 +36,9 @@
         <STYLE NAME="Pieniotsikko" PARENT="Perusteksti" LINESP="17" CPARENT="Pieniotsikko"/>
         <STYLE NAME="Ehdokasnimi" PARENT="Pieniotsikko" ALIGN="2" CPARENT="Pieniotsikko"/>
         <STYLE NAME="EhdokastiedotMini" PARENT="EhdokastiedotPieni" CPARENT="EhdokastiedotMini"/>
+        <STYLE NAME="Etukansi" PARENT="Perusteksti" CPARENT="Etukansi"/>
+        <STYLE NAME="EtukansiOtsikko" PARENT="Etukansi"/>
+        <STYLE NAME="EtukansiOikealla" PARENT="Etukansi" ALIGN="2" CPARENT="Etukansi"/>
         <CHARSTYLE CNAME="Default Character Style" FONT="Bebas Neue Bold" FONTSIZE="11" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Logo" CPARENT="Default Character Style" FONT="Section Light Light" FONTSIZE="20" KERN="-5" wordTrack="0.5"/>
         <CHARSTYLE CNAME="LogoBold" CPARENT="Logo" FONT="Section Black Black" KERN="0" wordTrack="0.5"/>
@@ -54,6 +57,7 @@
         <CHARSTYLE CNAME="EhdokastiedotPieni" CPARENT="Ehdokastiedot" FONTSIZE="9"/>
         <CHARSTYLE CNAME="Pieniotsikko" CPARENT="Perusteksti" FONTSIZE="18" FCOLOR="VihreätVihreä"/>
         <CHARSTYLE CNAME="EhdokastiedotMini" CPARENT="EhdokastiedotPieni" FONTSIZE="8"/>
+        <CHARSTYLE CNAME="OtsikkotekstiEtusivu" CPARENT="Otsikkoteksti" FCOLOR="White"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <LAYERS NUMMER="1" LEVEL="1" NAME="Ehdokasnumerot" SICHTBAR="0" DRUCKEN="0" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-394759" PDLanguage="-394759" markOffset="nan" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
@@ -1026,22 +1030,23 @@
             <para/>
             <para/>
             <ITEXT CH="Äänelläsi"/>
-            <para/>
+            <para PARENT="Etukansi"/>
             <ITEXT CH="TURVATAAN"/>
-            <para/>
+            <para PARENT="EtukansiOtsikko"/>
             <ITEXT CH="Puhdas luonto jälkipolville"/>
-            <para/>
+            <para PARENT="Etukansi"/>
             <para/>
             <para/>
             <ITEXT CH="Eduskuntavaalit"/>
-            <para/>
+            <para PARENT="EtukansiOikealla"/>
             <ITEXT CH="2015"/>
-            <para/>
+            <para PARENT="EtukansiOikealla"/>
             <para/>
             <para/>
             <para/>
             <para/>
             <ITEXT CH="Nyt jos koskaan"/>
+            <para PARENT="Etukansi"/>
             <para/>
             <para/>
             <para/>
@@ -1049,9 +1054,9 @@
             <para/>
             <para/>
             <para/>
-            <para/>
-            <ITEXT CPARENT="LogoBold" CH="Vihreät "/>
-            <ITEXT CH="De Gröna"/>
+            <ITEXT CPARENT="LogoWhiteBold" CH="Vihreät"/>
+            <ITEXT CPARENT="LogoBold" CH=" "/>
+            <ITEXT CPARENT="LogoWhite" CH="De Gröna"/>
             <trail PARENT="Logo"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
