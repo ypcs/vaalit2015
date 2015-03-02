@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.4.4">
-    <DOCUMENT ANZPAGES="8" PAGEWIDTH="368.503937007874" PAGEHEIGHT="368.503937007874" BORDERLEFT="14.1732283464567" BORDERRIGHT="14.1732283464567" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" PRESET="0" BleedTop="28.3492913385827" BleedLeft="28.3492913385827" BleedRight="28.3492913385827" BleedBottom="28.3492913385827" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOTEXT="1" AUTOSPALTEN="2" ABSTSPALTEN="14.1732283464567" UNITS="1" DFONT="Bebas Neue Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="Ville Korhonen" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="Finnish" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="Ville Korhonen" TITLE="Keski-Suomen Vihreiden vaaliesite 2015" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="29" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="English (USA)" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="1" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.155" dispY="0.155" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+    <DOCUMENT ANZPAGES="8" PAGEWIDTH="368.503937007874" PAGEHEIGHT="368.503937007874" BORDERLEFT="14.1732283464567" BORDERRIGHT="14.1732283464567" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" PRESET="0" BleedTop="28.3492913385827" BleedLeft="28.3492913385827" BleedRight="28.3492913385827" BleedBottom="28.3492913385827" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOTEXT="1" AUTOSPALTEN="2" ABSTSPALTEN="14.1732283464567" UNITS="1" DFONT="Bebas Neue Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="Ville Korhonen" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="Finnish" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="Ville Korhonen" TITLE="Keski-Suomen Vihreiden vaaliesite 2015" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="29" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="English (USA)" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="1" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.155" dispY="0.155" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="300" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -25,13 +25,13 @@
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
         <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="Default Character Style"/>
-        <STYLE NAME="Perusteksti" PARENT="Default Paragraph Style"/>
+        <STYLE NAME="Perusteksti" PARENT="Default Paragraph Style" ALIGN="1"/>
         <STYLE NAME="Logo" PARENT="Default Paragraph Style" ALIGN="1" CPARENT="Logo" FONTSIZE="20"/>
         <STYLE NAME="Takakansi" PARENT="Perusteksti" ALIGN="1" CPARENT="Takakansi"/>
         <STYLE NAME="TakakansiLogo" PARENT="Takakansi" LINESP="20" CPARENT="Logo"/>
         <STYLE NAME="PienitekstiTakakansi" PARENT="Takakansi" CPARENT="PienitekstiTakakansi"/>
         <STYLE NAME="TakakansiOtsikko" PARENT="Takakansi" CPARENT="OtsikkotekstiTakakansi"/>
-        <STYLE NAME="Ehdokastiedot" PARENT="Perusteksti" LINESP="11" CPARENT="Ehdokastiedot"/>
+        <STYLE NAME="Ehdokastiedot" PARENT="Perusteksti" ALIGN="0" LINESP="11" CPARENT="Ehdokastiedot"/>
         <STYLE NAME="EhdokastiedotPieni" PARENT="Ehdokastiedot" CPARENT="EhdokastiedotPieni"/>
         <STYLE NAME="Pieniotsikko" PARENT="Perusteksti" LINESP="17" CPARENT="Pieniotsikko"/>
         <STYLE NAME="Ehdokasnimi" PARENT="Pieniotsikko" ALIGN="2" CPARENT="Pieniotsikko"/>
@@ -770,11 +770,11 @@
             <para/>
             <para/>
             <ITEXT CH="Äänelläsi"/>
-            <para/>
+            <para PARENT="Perusteksti"/>
             <ITEXT CH="SIIRRETÄÄN"/>
-            <para/>
+            <para PARENT="Pieniotsikko"/>
             <ITEXT CH=" terveydenhuollon ja vanhustenhoidon painopistettä kohti ennaltaehkäisyä"/>
-            <para/>
+            <para PARENT="Perusteksti"/>
             <para/>
             <ITEXT CPARENT="LogoBold" CH="Vihreät "/>
             <ITEXT CH="De Gröna"/>
@@ -786,11 +786,11 @@
             <para/>
             <para/>
             <ITEXT CH="Äänelläsi"/>
-            <para/>
+            <para PARENT="Perusteksti"/>
             <ITEXT CH="Turvataan"/>
-            <para/>
+            <para PARENT="Pieniotsikko"/>
             <ITEXT CH="laadukas varhaiskasvatus, esiopetus sekä perusopetus"/>
-            <para/>
+            <para PARENT="Perusteksti"/>
             <para PARENT="Logo"/>
             <ITEXT CPARENT="LogoBold" CH="Vihreät "/>
             <ITEXT CH="De Gröna"/>
