@@ -44,7 +44,7 @@
         <STYLE NAME="Teemaotsikko" PARENT="Pieniotsikko" VOR="10"/>
         <STYLE NAME="TeemaIsootsikko" PARENT="Pieniotsikko" NACH="2" CPARENT="Pieniotsikko" FONTSIZE="22" FCOLOR="Black"/>
         <CHARSTYLE CNAME="Default Character Style" FONT="Bebas Neue Bold" FONTSIZE="11" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
-        <CHARSTYLE CNAME="Logo" CPARENT="Default Character Style" FONT="Section Light Light" FONTSIZE="20" KERN="-5" wordTrack="0.5"/>
+        <CHARSTYLE CNAME="Logo" CPARENT="Default Character Style" FONT="Section Light Light" FONTSIZE="20" KERN="-5" wordTrack="1"/>
         <CHARSTYLE CNAME="LogoBold" CPARENT="Logo" FONT="Section Black Black" KERN="0" wordTrack="0.5"/>
         <CHARSTYLE CNAME="Perusteksti" CPARENT="Default Character Style"/>
         <CHARSTYLE CNAME="Takakansi" CPARENT="Perusteksti" FCOLOR="White"/>
@@ -150,7 +150,7 @@
             <para PARENT="Etukansi"/>
             <ITEXT CPARENT="LogoWhiteBold" CH="Vihreät"/>
             <ITEXT CPARENT="LogoBold" CH=" "/>
-            <ITEXT CPARENT="LogoWhite" CH="De Gröna"/>
+            <ITEXT CPARENT="LogoWhite" CH=" De Gröna"/>
             <para PARENT="Logo"/>
             <ITEXT CH="Äänelläsi"/>
             <para PARENT="TeemaIsootsikko"/>
@@ -250,7 +250,7 @@
             <para PARENT="Takakansi"/>
             <ITEXT CPARENT="LogoWhiteBold" CH="Vihreät"/>
             <ITEXT CPARENT="LogoBold" CH=" "/>
-            <ITEXT CPARENT="LogoWhite" CH="De Gröna"/>
+            <ITEXT CPARENT="LogoWhite" CH=" De Gröna"/>
             <para PARENT="TakakansiLogo"/>
             <ITEXT CH="Mainoksen maksaa keski-Suomen Vihreät ry - 2015"/>
             <trail PARENT="PienitekstiTakakansi"/>
@@ -604,7 +604,7 @@
             <ITEXT CH="laadukas varhaiskasvatus, esiopetus sekä perusopetus"/>
             <para PARENT="Perusteksti"/>
             <para PARENT="Logo"/>
-            <ITEXT CPARENT="LogoBold" FCOLOR="VihreätVihreä" FSHADE="100" CH="Vihreät "/>
+            <ITEXT CPARENT="LogoBold" FCOLOR="VihreätVihreä" FSHADE="100" CH="Vihreät  "/>
             <ITEXT FCOLOR="VihreätVihreä" FSHADE="100" CH="De Gröna"/>
             <trail PARENT="Logo"/>
             <PageItemAttributes/>
@@ -764,7 +764,7 @@
             <para PARENT="Perusteksti"/>
             <para/>
             <ITEXT CPARENT="LogoBold" FCOLOR="VihreätVihreä" FSHADE="100" CH="Vihreät "/>
-            <ITEXT FCOLOR="VihreätVihreä" FSHADE="100" CH="De Gröna"/>
+            <ITEXT FCOLOR="VihreätVihreä" FSHADE="100" CH=" De Gröna"/>
             <trail PARENT="Logo"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
