@@ -677,6 +677,7 @@
             <para PARENT="Ehdokastiedot"/>
             <ITEXT CH="39v, Äänekoski"/>
             <para PARENT="Ehdokastiedot"/>
+            <para PARENT="Ehdokastiedot"/>
             <para PARENT="EhdokastiedotTyhja"/>
             <ITEXT CH="       keskisuomenvihreat.fi/pauliina-rusula"/>
             <trail PARENT="EhdokastiedotMini"/>
