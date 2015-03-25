@@ -1,0 +1,4 @@
+ - leveys neljännessivu, korkeus koko sivu
+ - palstoja 8, eli leveys 2 palstaa, = 92mm
+ - korkeus 510mm
+ - ks. http://www.ksml.fi/yritysasiakkaat/aineistot/keskisuomalainen/aineistot/7898
