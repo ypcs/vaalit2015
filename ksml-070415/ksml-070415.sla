@@ -361,7 +361,7 @@
             <para PARENT="Logo"/>
             <para/>
             <para PARENT="kapeaväli"/>
-            <ITEXT FONTSIZE="8" FCOLOR="Warm Black" FSHADE="100" CH="Mainoksen maksaa Keski-Suomen Vihreät"/>
+            <ITEXT FONTSIZE="8" FCOLOR="Black" FSHADE="100" CH="Mainoksen maksaa Keski-Suomen Vihreät"/>
             <trail PARENT="kapeaväli" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
